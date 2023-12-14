@@ -1,0 +1,72 @@
+body{
+background-image:url(Free-Desk.jpg)  ;
+background-color: black;
+background-repeat: no-repeat fixed center;
+background-size: cover;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.reg{
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    display: grid;
+    margin: 200px auto;
+    padding:10px 20px 40px;
+    color:rgb(255, 248, 239)
+}
+
+.reg h3{
+    color: #eee;
+    font-family: 'Times New Roman', Times, serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; 
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.texlab{
+    display: block;
+    margin-top: 13px;
+}
+
+.radlab{
+    display: inline;
+    padding-left: 21px;
+    padding-top: 5px;
+}
+
+.input input{
+    width: 100%;
+    font-size: 1em;
+    border: 1px solid #258fa8;
+    box-shadow: 2px;
+    border-radius: 8px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin: 9px;
+    
+    
+   }
+
+
+
+.btn{
+   margin-top: 40px;
+   padding-left: 200px; 
+    
+
+}
+button{
+    background-color:#258fa8 ;
+    color:whitesmoke;
+    border-radius: 6px;
+    width: 105px;
+    height: 40px;
+    font-size: 1em;
+    border-radius: 1px solid ;
+    box-shadow: 3px #258fa8;
+}
+.radio input{
+    accent-color:#258fa8 ;
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+   -ms-transform: scale(1.5);
+}
